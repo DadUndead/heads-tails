@@ -1,0 +1,29 @@
+{
+  "name": "heads-tails",
+  "version": "0.0.1",
+  "description": "Heads and tails console game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DadUndead/heads-tails.git"
+  },
+  "keywords": [
+    "heads-tails",
+    "console"
+  ],
+  "author": "aklimenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DadUndead/heads-tails/issues"
+  },
+  "homepage": "https://github.com/DadUndead/heads-tails#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.14.0",
+    "minimist": "^1.2.0",
+    "prompt": "^1.0.0"
+  }
+}
